@@ -82,10 +82,10 @@ Ter instalado :
  Da para instalar direto como na documentação, assim  como outras formas como com o expo e o vite
 Instalando com o expo : [Expo](https://docs.expo.dev/)
 ```
-npx create-expo-app Demo
+npx create-expo-app Demo-Expo
 ```
 ```
-cd Demo
+cd Demo-Expo
 ```
 ```
 npx expo install react-dom react-native-web @expo/webpack-config
