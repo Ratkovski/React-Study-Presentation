@@ -45,7 +45,7 @@ O que é:
 
 - Objetivo principal: Simplificar o desenvolvimento e criação de aplicações web que são rápidos, escaláveis e simples.
 
-***React Native:*** É o irmão mais novo do React porém criado para mas foi projetado para criar aplicativos móveis nativos com componentes reutilizáveis. Permitindo aplicativos móveis multiplataforma. Antes do React Native os desenvolvedores precisavam usar varios tipos de ferramentas para desenvolver para plataformas diferentes.
+***React Native:*** É o irmão mais novo do React porém criado para mas foi projetado para criar aplicativos móveis nativos com componentes reutilizáveis. Permitindo criar aplicativos móveis multiplataforma. Antes do React Native os desenvolvedores precisavam usar varios tipos de ferramentas para desenvolver para plataformas diferentes.
 
 - Objetivo principal: Com o React Native é possivel desenvolver um aplicativo multiplataforma e que rode em varias plataformas(Windows, Android, iOS) de forma fácil.
 
@@ -55,23 +55,10 @@ O que é:
 Aprenda uma vez, escreva em qualquer lugar.
 
 “Write once, run anywhere”
-Escreva uma única vez e rode em qualquer lugar
+Escreva uma única vez e rode em qualquer lugar 
 
 
-Exemplo Prático:
-
-
-### Fontes de estudo:
-- Rocketseat [***Link Rocketseat***](https://www.rocketseat.com.br/)
-    - Cursos  (free/pago)
-    - Bootcamps
-    
-- Dio Digital Innovation One [***Link Dio***](https://www.dio.me/en/sign-in)
-    - Cursos (free/pagos)
-    - Bootcamps (free/pagos)
-    - Inglês (direcionado para a área de TI)
-    
-
+### Exemplo Prático:
 
 
 Como iniciar um projeto React Native: 
@@ -80,6 +67,9 @@ Ter instalado :
  - npm
 
  Da para instalar direto como na documentação, assim  como outras formas como com o expo e o vite
+
+> Na minha opnião pessoal o vite é utilizado para quando o foco é o desenvolvimento de aplicações web e o Expo quando o foco é  aplicativos
+
 Instalando com o expo : [Expo](https://docs.expo.dev/)
 ```
 npx create-expo-app Demo-Expo
@@ -112,7 +102,35 @@ npm run dev
 ```
 ![Alt Text](./Docs/Vite.gif)
 
+
+### Lições Aprendidas
+
+-[x] Planejar antes de começar (escrever/desenhar);
+
+<input type="checkbox"/> 
+
+
+
+
+### Fontes de estudo:
+- Rocketseat [***Link Rocketseat***](https://www.rocketseat.com.br/)
+    - Cursos  (free/pago)
+    - Bootcamps
+    
+- Dio Digital Innovation One [***Link Dio***](https://www.dio.me/en/sign-in)
+    - Cursos (free/pagos)
+    - Bootcamps (free/pagos)
+    - Inglês (direcionado para a área de TI)
+
+
+### Examples:
+[React.js and Spring Data REST](https://spring.io/guides/tutorials/react-and-spring-data-rest/) 
+
+[Building Realtime Multiplayer](https://blog.simonireilly.com/posts/building-games-with-react-01)
+
+
 ### References:
+
 
 [React vs React Native: What’s the difference?](https://devskiller.com/react-vs-react-native-whats-the-difference/)
 
