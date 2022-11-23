@@ -64,11 +64,11 @@ Escreva uma única vez e rode em qualquer lugar
 Como iniciar um projeto React Native: 
 Ter instalado :
  - Node
- - npm
+ - npm  -  ou outro gerenciador de pacote
 
  Da para instalar direto como na documentação, assim  como outras formas como com o expo e o vite
 
-> Na minha opnião pessoal o vite é utilizado para quando o foco é o desenvolvimento de aplicações web e o Expo quando o foco é  aplicativos
+>>> Na minha opnião pessoal e de quem esta aprendendo ainda, o vite é utilizado para quando o foco é o desenvolvimento de aplicações web e o Expo quando o foco é  aplicativos
 
 Instalando com o expo : [Expo](https://docs.expo.dev/)
 ```
@@ -105,11 +105,17 @@ npm run dev
 
 ### Lições Aprendidas
 
--[x] Planejar antes de começar (escrever/desenhar);
+:white_check_mark: Planejar antes de começar (escrever/desenhar).
 
-<input type="checkbox"/> teste
+:white_check_mark: Levante todos os requisitos e funcionalidades.
 
+:white_check_mark:Mais importante documente o que a aplicação ***não*** vai fazer.
 
+:white_check_mark: Crie padrões.
+
+:white_check_mark: Crie algo que possa ser reutilizado facilmente.
+
+:white_check_mark: Documente o que você desenvolveu.
 
 
 ### Fontes de estudo:
