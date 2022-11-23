@@ -35,6 +35,8 @@
 * Skype
 * Tesla
 * Wix
+* Discord
+* Walmart
 
 
 React e React Native são duas tecnologias usadas para desenvolver aplicações web e mobile ambas são baseadas em JavaScript e são conhecidas por serem usadas para contruir interfaces de usuario - (UI - user interface) 
@@ -60,13 +62,15 @@ Escreva uma única vez e rode em qualquer lugar
 
 ### Exemplo Prático:
 
+[Construindo a interface fake](https://github.com/Ratkovski/React-app-bank)
+
 
 Como iniciar um projeto React Native: 
 Ter instalado :
  - Node
  - npm  -  ou outro gerenciador de pacote
 
- Da para instalar direto como na documentação, assim  como outras formas como com o expo e o vite
+ Da para instalar direto como na documentação, assim  como outras formas como com o expo e o vite que facilitam a parte de configuração etc...
 
 >>> Na minha opnião pessoal e de quem esta aprendendo ainda, o vite é utilizado para quando o foco é o desenvolvimento de aplicações web e o Expo quando o foco é  aplicativos
 
@@ -136,7 +140,7 @@ npm run dev
 
 
 ### References:
-
+[React vs React Native: Which One to Choose and Why?](https://radixweb.com/blog/react-vs-react-native)
 
 [React vs React Native: What’s the difference?](https://devskiller.com/react-vs-react-native-whats-the-difference/)
 
