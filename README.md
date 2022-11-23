@@ -107,7 +107,7 @@ npm run dev
 
 -[x] Planejar antes de começar (escrever/desenhar);
 
-<input type="checkbox"/> 
+<input type="checkbox"/> teste
 
 
 
